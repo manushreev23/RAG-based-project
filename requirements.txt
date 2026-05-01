@@ -1,0 +1,11 @@
+python-dotenv
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+faiss-cpu
+streamlit
+pypdf
+langchain-nvidia-ai-endpoints
+tiktoken
+youtube-transcript-api
